@@ -1,0 +1,7 @@
+# gitigore
+
+front/node_modules/
+backend/app/migrations/
+backend/Varnish/__pycache__/
+backend/app/__pycache__/
+backend/.idea/
